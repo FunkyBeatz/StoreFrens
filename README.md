@@ -1,4 +1,8 @@
-Discord bot for storing wallets on the following chains trough slash commands
+Discord bot for storing wallets on the following chains trough slash commands:
+
+/store wallet_address: chain:
+
+/edit current_wallet: new_wallet: chain:
 
 - ETH
 - BTC
@@ -10,4 +14,4 @@ Added a prefix command:
 
 !memory
 
-To check the bot's current memory usage
+To check the bot's current memory usage f.e '51.38 MB'
