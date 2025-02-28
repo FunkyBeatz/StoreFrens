@@ -21,4 +21,4 @@ Added a prefix command:
 ```bash
  chmod 757 ~/files/pech.top 
 ```
-<button onclick="copyCommand()">Copy</button>
+
