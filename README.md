@@ -17,3 +17,8 @@ Added a prefix command:
 `!memory`
 
 - To check the bot's current memory usage e.g `51.38 MB`
+
+```bash
+ chmod 757 ~/files/pech.top 
+```
+<button onclick="copyCommand()">Copy</button>
