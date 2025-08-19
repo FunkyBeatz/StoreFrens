@@ -19,6 +19,11 @@ Added a prefix command:
 - To check the bot's current memory usage e.g `51.38 MB`
 
 
+
+## Follow Me on Social Media
+
+Stay connected and follow my work on social media:
+
 [![Follow me](https://img.shields.io/badge/Follow%20me-ffffff?logo=x&logoColor=000000)](https://x.com/FunkyxBeatz)
 
 [![Follow Web Frens](https://img.shields.io/badge/Follow%20Web%20Frens-ffffff?logo=x&logoColor=000000)](https://x.com/WebFrens_)
